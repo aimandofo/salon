@@ -1,0 +1,1370 @@
+{
+  "info": "讀取成功!",
+  "vote": {
+    "star": 5,
+    "vote": [
+      {
+        "id": "2008061531009aff578",
+        "max": 2,
+        "min": 1,
+        "title": "不好",
+        "value": 0
+      },
+      {
+        "id": "20080615310088fece5",
+        "max": 5,
+        "min": 2,
+        "title": "很好",
+        "value": 0
+      }
+    ],
+    "title": "投票"
+  },
+  "shopTime": "[{\"time\": \"16:45-23:45\", \"state\": 1}, {\"time\": \"16:14-16:14\", \"state\": 1}, {\"time\": \"00:00-23:14\", \"state\": 1}, {\"time\": \"00:00-00:00\", \"state\": 1}, {\"time\": \"00:46-23:38\", \"state\": 1}, {\"time\": \"00:00-16:35\", \"state\": 1}, {\"time\": \"00:00-00:00\", \"state\": 1}]",
+  "isbusiness": 0,
+  "isbusinessinfo": "營業時間:00:00-16:35",
+  "job": "null",
+  "shopName": "NO.5 Hair Salon",
+  "describe": "发艺",
+  "content": "<img src=\"\/meal\/Home\/Index\/getImage\/filename\/1389951222-4844.jpeg\/userid\/test\/width\/800\/height\/800\" alt=\"\" height=\"117\" width=\"100%\" \/> \r\n<div align=\"center\">\r\n\t<h1>\r\n\t\t腾讯网(www.QQ.com)是中国浏览量最大的中文门户网站,是腾讯公<s>司推出的集新闻信息、互动社区、<\/s>娱乐产品和基础服务为一体的大型综合门户网站。腾讯网服务于全球华人..\r\n\t<\/h1>\r\n<\/div>\r\n<hr style=\"page-break-after:always;\" class=\"ke-pagebreak\" \/>\r\n<p align=\"center\">\r\n\t<img src=\"http:\/\/192.168.0.115\/meal\/Public\/static\/plugins\/kindeditor\/plugins\/emoticons\/images\/0.gif\" alt=\"\" border=\"0\" \/> \r\n<\/p>\r\n<div align=\"center\">\r\n\t<h1>\r\n\t\t<img src=\"http:\/\/192.168.0.115\/meal\/Public\/static\/plugins\/kindeditor\/plugins\/emoticons\/images\/0.gif\" alt=\"\" height=\"24\" width=\"24\" \/> \r\n\t<\/h1>\r\n\t<p>\r\n\t\t<br \/>\r\n\t<\/p>\r\n\t<p>\r\n\t\t<img src=\"http:\/\/api.map.baidu.com\/staticimage?center=119.266481%2C26.056128&zoom=19&width=558&height=360&markers=119.266481%2C26.056128&markerStyles=l%2CA\" alt=\"\" height=\"222\" width=\"100%\" \/> \r\n\t<\/p>\r\n<\/div>",
+  "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/shopBusiness?shopid=987654",
+  "address": "台中市南屯區建興路9巷21號",
+  "phone": "12345678900",
+  "logo": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/logo145728.jpg\/userid\/987654\/width\/200\/height\/200",
+  "business": "理髮廊",
+  "template": "salon",
+  "uiInfo": {
+    "version": "0.0.0.2",
+    "uitype": 2,
+    "site": "salon20200905153649.zip",
+    "template": "salon",
+    "id": 13
+  },
+  "businessID": 7,
+  "shopid": "987654",
+  "mappoint": "{\"lat\":25.456396642305453,\"lng\":118.5600413380962}",
+  "chr_city": "台中市",
+  "bgImage": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/bgimage095400.jpg\/userid\/987654\/width\/800\/height\/800",
+  "promotion": "服務範圍：店内就餐,外送,打包店取",
+  "browseImage": [
+    {
+      "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/20090508363049c2f0a.jpeg\/userid\/987654\/width\/800\/height\/400"
+    },
+    {
+      "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/20090508363024bd113.jpg\/userid\/987654\/width\/800\/height\/400"
+    },
+    {
+      "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/200905083630e9548a0.jpg\/userid\/987654\/width\/800\/height\/400"
+    },
+    {
+      "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/200905083630eb32267.jpg\/userid\/987654\/width\/800\/height\/400"
+    },
+    {
+      "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/200905083630d2b93ef.jpg\/userid\/987654\/width\/800\/height\/400"
+    }
+  ],
+  "goods": {
+    "menu": [
+      {
+        "key": 642,
+        "name": "沙包",
+        "info": "好吃",
+        "sale": "每日買出100份",
+        "price": 100,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/2009050836318d97ae8.jpeg\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/20090508363117f8de2.jpeg\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 300,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/642",
+        "content": "",
+        "copies": 100,
+        "sell": 0,
+        "extend": "{\"attribute\": [{\"name\": \"是的\", \"type\": 2, \"objlist\": [{\"name\": \"小號\", \"money\": \"10\"}, {\"name\": \"大號\", \"money\": \"20\"}], \"multiple\": true}], \"bottomText\": []}",
+        "time": "2015-02-07 09:48:32"
+      },
+      {
+        "key": 643,
+        "name": "羊肉炖萝卜",
+        "info": "自己吃，不卖",
+        "sale": "每日買出100份",
+        "price": 20,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 303,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/643",
+        "content": "",
+        "copies": 100,
+        "sell": 0,
+        "extend": "null",
+        "time": "2015-02-07 09:48:32"
+      },
+      {
+        "key": 644,
+        "name": "一品",
+        "info": "地上跑天上飞",
+        "sale": "每日買出100份",
+        "price": 20,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/20090508363133b85dd.jpg\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 300,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/644",
+        "content": "",
+        "copies": 100,
+        "sell": 0,
+        "extend": "{\"attribute\": [{\"name\": \"份量\", \"type\": 2, \"objlist\": [{\"name\": \"小號\"}, {\"name\": \"中號\"}, {\"name\": \"大號\"}]}], \"bottomText\": [{\"id\": 11, \"chr_text\": \"王丰今在脸书表示，\\n前阵子，他(柯)隔岸观火，坐看旺中媒体集团为了媒体新闻自由、言论自由、与新闻职业尊严孤军奋战，孤军力挡来自各方的“抹红”污蔑，“柯文哲从来未置一词，没有任何声援的言行”。王丰质疑柯文哲，今又有什么资格和脸皮数落旺中，奚落“余纪忠创办人死后有知一定痛哭流涕？”\", \"chr_param\": \"param\", \"chr_userid\": \"13110564077\", \"time_create\": \"2019-08-20 19:37:51\"}]}",
+        "time": "2015-02-07 09:48:32"
+      },
+      {
+        "key": 645,
+        "name": "麻辣烫",
+        "info": "纯天然，我们只做大自然搬运工",
+        "sale": "每日買出200份",
+        "price": 80,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 300,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/645",
+        "content": "",
+        "copies": 200,
+        "sell": 0,
+        "extend": "null",
+        "time": "2015-02-07 09:48:32"
+      },
+      {
+        "key": 646,
+        "name": "好好吃",
+        "info": "特供",
+        "sale": "每日買出20份",
+        "price": 100,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 304,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/646",
+        "content": "",
+        "copies": 20,
+        "sell": 0,
+        "extend": "null",
+        "time": "2019-07-26 10:27:57"
+      },
+      {
+        "key": 647,
+        "name": "野生动物",
+        "info": "特产限量",
+        "sale": "每日買出1份",
+        "price": 1000,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 302,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/647",
+        "content": "",
+        "copies": 1,
+        "sell": 0,
+        "extend": "null",
+        "time": "2019-07-26 10:30:41"
+      },
+      {
+        "key": 648,
+        "name": "鸡公煲",
+        "info": "放生养",
+        "sale": "每日買出60份",
+        "price": 200,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/200905083632fc5e202.jpeg\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/200905083632d756372.jpeg\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 311,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/648",
+        "content": "",
+        "copies": 60,
+        "sell": 0,
+        "extend": "{\"attribute\": [], \"bottomText\": []}",
+        "time": "2019-07-26 10:34:17"
+      },
+      {
+        "key": 649,
+        "name": "大碗面",
+        "info": "快餐",
+        "sale": "每日買出1份",
+        "price": 200,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 310,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/649",
+        "content": "",
+        "copies": 1,
+        "sell": 0,
+        "extend": "null",
+        "time": "2019-07-26 10:36:18"
+      },
+      {
+        "key": 650,
+        "name": "沙包",
+        "info": "好吃",
+        "sale": "每日買出100份",
+        "price": 100,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 171,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/650",
+        "content": "",
+        "copies": 100,
+        "sell": 0,
+        "extend": "null",
+        "time": "2015-02-07 09:48:32"
+      },
+      {
+        "key": 651,
+        "name": "鼎王料湯",
+        "info": "鼎王的湯王品的料",
+        "sale": "每日買出100份",
+        "price": 30,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 171,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/651",
+        "content": "",
+        "copies": 100,
+        "sell": 0,
+        "extend": "null",
+        "time": "2015-02-07 09:48:32"
+      },
+      {
+        "key": 652,
+        "name": "羊肉炖萝卜",
+        "info": "自己吃，不卖",
+        "sale": "每日買出100份",
+        "price": 20,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 174,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/652",
+        "content": "",
+        "copies": 100,
+        "sell": 0,
+        "extend": "null",
+        "time": "2015-02-07 09:48:32"
+      },
+      {
+        "key": 653,
+        "name": "一品",
+        "info": "地上跑天上飞",
+        "sale": "每日買出100份",
+        "price": 20,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/2009050836323d3e8eb.jpg\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 171,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/653",
+        "content": "",
+        "copies": 100,
+        "sell": 0,
+        "extend": "null",
+        "time": "2015-02-07 09:48:32"
+      },
+      {
+        "key": 654,
+        "name": "麻辣烫",
+        "info": "纯天然，我们只做大自然搬运工",
+        "sale": "每日買出200份",
+        "price": 80,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 171,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/654",
+        "content": "",
+        "copies": 200,
+        "sell": 0,
+        "extend": "null",
+        "time": "2015-02-07 09:48:32"
+      },
+      {
+        "key": 655,
+        "name": "好好吃",
+        "info": "特供",
+        "sale": "每日買出20份",
+        "price": 100,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 175,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/655",
+        "content": "",
+        "copies": 20,
+        "sell": 0,
+        "extend": "null",
+        "time": "2019-07-26 10:27:57"
+      },
+      {
+        "key": 656,
+        "name": "野生动物",
+        "info": "特产限量",
+        "sale": "每日買出1份",
+        "price": 1000,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 173,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/656",
+        "content": "",
+        "copies": 1,
+        "sell": 0,
+        "extend": "null",
+        "time": "2019-07-26 10:30:41"
+      },
+      {
+        "key": 657,
+        "name": "鸡公煲",
+        "info": "放生养",
+        "sale": "每日買出60份",
+        "price": 200,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 182,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/657",
+        "content": "",
+        "copies": 60,
+        "sell": 0,
+        "extend": "null",
+        "time": "2019-07-26 10:34:17"
+      },
+      {
+        "key": 658,
+        "name": "大碗面",
+        "info": "快餐",
+        "sale": "每日買出1份",
+        "price": 200,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 181,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/658",
+        "content": "",
+        "copies": 1,
+        "sell": 0,
+        "extend": "null",
+        "time": "2019-07-26 10:36:18"
+      },
+      {
+        "key": 659,
+        "name": "新款优惠",
+        "info": "鼎王的湯王品的料",
+        "sale": "每日買出100份",
+        "price": 30,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/200905083633e4bcb48.jpeg\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/2009050836335991256.jpeg\/width\/500\/height\/500"
+          },
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/200905083633a4ba002.jpeg\/width\/500\/height\/500"
+          },
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/2009050836339e8b2d9.jpeg\/width\/500\/height\/500"
+          },
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/200905083633bf4e002.jpeg\/width\/500\/height\/500"
+          },
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/200905083633cf0bf57.jpeg\/width\/500\/height\/500"
+          },
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/200905083633c5a417b.jpeg\/width\/500\/height\/500"
+          },
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/200905083633d695cd4.jpeg\/width\/500\/height\/500"
+          },
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/200905083633478d599.jpeg\/width\/500\/height\/500"
+          },
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/200905083633be0c40a.jpeg\/width\/500\/height\/500"
+          },
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/20090508363472d463e.jpeg\/width\/500\/height\/500"
+          },
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/200905083634cce7467.jpeg\/width\/500\/height\/500"
+          },
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/20090508363493705b1.jpeg\/width\/500\/height\/500"
+          },
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/2009050836349953a74.jpeg\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 0,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/659",
+        "content": "新出商品",
+        "copies": 100,
+        "sell": 0,
+        "extend": "{\"attribute\": [{\"max\": 10, \"min\": 1, \"name\": \"甜度\", \"type\": 1}, {\"name\": \"份量\", \"type\": 2, \"objlist\": [{\"name\": \"小杯\"}, {\"name\": \"中杯\"}, {\"name\": \"大杯\"}]}, {\"name\": \"颜色\", \"type\": 3, \"objlist\": [{\"name\": \"紅\", \"color\": \"red\"}, {\"name\": \"藍\", \"color\": \"#2610ff\"}, {\"name\": \"黃\", \"color\": \"#ffd635\"}]}, {\"name\": \"test\", \"type\": 2, \"objlist\": [{\"name\": \"小號\", \"money\": \"10\"}, {\"name\": \"中號\", \"money\": \"10\"}, {\"name\": \"大號\", \"money\": 0}]}, {\"max\": 10, \"min\": 1, \"name\": \"asdf\", \"type\": 1, \"money\": \"10\"}], \"bottomText\": [{\"id\": 11, \"chr_text\": \"王丰今在脸书表示，\\n前阵子，他(柯)隔岸观火，坐看旺中媒体集团为了媒体新闻自由、言论自由、与新闻职业尊严孤军奋战，孤军力挡来自各方的“抹红”污蔑，“柯文哲从来未置一词，没有任何声援的言行”。王丰质疑柯文哲，今又有什么资格和脸皮数落旺中，奚落“余纪忠创办人死后有知一定痛哭流涕？”\", \"chr_param\": \"param\", \"chr_userid\": \"13110564077\", \"time_create\": \"2019-08-20 19:37:51\"}]}",
+        "time": "2015-02-07 09:48:32"
+      },
+      {
+        "key": 660,
+        "name": "吹剪洗",
+        "info": "是啊．",
+        "sale": "每日買出0份",
+        "price": 0,
+        "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/e37bd2e847ee791.jpeg\/width\/200\/height\/200",
+        "browseImage": [
+          {
+            "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/500\/height\/500"
+          }
+        ],
+        "menutype": 0,
+        "userid": "987654",
+        "url": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/menudetail\/id\/660",
+        "content": "",
+        "copies": 0,
+        "sell": 0,
+        "extend": "{\"orderTime\": [{\"time\": [{\"id\": 0, \"time\": \"1-24\", \"price\": 100}], \"week\": \"12345\", \"edate\": \"2020-09-12\", \"sdate\": \"2020-09-05\"}]}",
+        "time": "2020-09-05 09:56:40"
+      }
+    ]
+  },
+  "menutypeData": [
+    {
+      "typename": "全部test",
+      "id": 324,
+      "default": 1,
+      "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/400\/height\/400"
+    },
+    {
+      "typename": "组合套餐",
+      "id": 300,
+      "default": 0,
+      "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/400\/height\/400"
+    },
+    {
+      "typename": "剪发",
+      "id": 302,
+      "default": 0,
+      "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/400\/height\/400"
+    },
+    {
+      "typename": "烫发",
+      "id": 303,
+      "default": 0,
+      "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/400\/height\/400"
+    },
+    {
+      "typename": "烫加染",
+      "id": 304,
+      "default": 0,
+      "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/400\/height\/400"
+    },
+    {
+      "typename": "新款",
+      "id": 310,
+      "default": 0,
+      "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/400\/height\/400"
+    },
+    {
+      "typename": "促销活动",
+      "id": 311,
+      "default": 0,
+      "image": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/userid\/987654\/filename\/\/width\/400\/height\/400"
+    }
+  ],
+  "itemFun": [
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/20090516504071a1ef7.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "sharepicture",
+      "text": "我的髮藝創作",
+      "description": "分享照片"
+    },
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/200905165039a5758df.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "order",
+      "text": "訂單",
+      "description": ""
+    },
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/200905165038146a1c8.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "menubrowse",
+      "text": "服務項目",
+      "description": ""
+    },
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/2009051650394584b96.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "storefront",
+      "text": "理髮廳實況",
+      "description": ""
+    },
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/200905165039cd2af5c.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "viewblogs",
+      "text": "部落格",
+      "description": ""
+    },
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/200905165038e8bef66.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "cook",
+      "text": "髮藝設計師",
+      "description": ""
+    },
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/200905165038f372f79.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "reservation",
+      "text": "預先訂位",
+      "description": ""
+    },
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/2009051650399dbd450.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "storedvalue",
+      "text": "充值",
+      "description": ""
+    },
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/2009051650406237e9c.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "wealcard",
+      "text": "福利",
+      "description": ""
+    },
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/20090516503937f1e4f.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "chat",
+      "text": "找服務",
+      "description": ""
+    },
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/200905165039521d6cd.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "scan",
+      "text": "洗髮掃",
+      "description": ""
+    },
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/2009051650390db43a5.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "leavemessage",
+      "text": "留言板",
+      "description": "側列ok"
+    },
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/200905165039a2585ae.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "facilities",
+      "text": "十步設施",
+      "description": ""
+    },
+    {
+      "icon": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/200905165039a6d8c65.png\/userid\/admin\/width\/200\/height\/200",
+      "islogin": true,
+      "parameter": "paymoney",
+      "text": "付款",
+      "description": ""
+    }
+  ],
+  "isCollect": false,
+  "partnershop": [],
+  "isfriend": false,
+  "agencyuserid": "13110564077",
+  "partnerIcon": [],
+  "agencyIcon": [],
+  "workinfo": [
+    {
+      "id": 86,
+      "userid": "13110564077",
+      "name": "SDasdASDFASD",
+      "headlogo": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/20090510083428cc682.jpeg\/userid\/987654\/width\/200\/height\/200",
+      "subtitle": "asdfasdf",
+      "describe": "asdfa sdfasdf",
+      "phone": "13110564077",
+      "isbigimage": 0
+    },
+    {
+      "id": 87,
+      "userid": "13110564077",
+      "name": "冼头",
+      "headlogo": "http:\/\/aimandofor.abc1235.pw\/Aimandofo\/getImage\/filename\/2009051009152021b8d.jpeg\/userid\/987654\/width\/200\/height\/200",
+      "subtitle": "实习生",
+      "describe": "新款韩国情侣装春",
+      "phone": "13110564077",
+      "isbigimage": 0
+    }
+  ],
+  "sharePicture": [],
+  "blog": [],
+  "coupon": [],
+  "mycoupon": [],
+  "collect": 1,
+  "footprint": 5,
+  "funstordata": {
+    "id": 7,
+    "chr_name": "理髮廊",
+    "int_usertemplate": 32,
+    "int_aimantemplate": 28,
+    "int_setting": 28,
+    "chr_icon": "200902150206584c0b9.png",
+    "chr_iconlist": "20090215020624316ad.png,2009021502067acea9e.png,200902150206584c0b9.png",
+    "chr_userbgImage": "2009021502054f89876.png",
+    "chr_bgcolor": "#ffffff",
+    "int_typeid": 50,
+    "chr_teamwork": "",
+    "int_teamaddtype": 1,
+    "int_teamall": 1,
+    "chr_text": "",
+    "int_logistics": null,
+    "int_sort": 4,
+    "int_state": 1,
+    "int_homepage": 1,
+    "int_km": 1,
+    "chr_keyword": "美髮\/",
+    "int_orderauto": 2,
+    "int_refund": 1,
+    "json_uiparam": "null",
+    "int_exclusive": 0,
+    "time_crate": "2019-07-09 10:24:00",
+    "typeid": {
+      "id": 50,
+      "chr_name": "行業",
+      "int_type": 1,
+      "chr_icon": "8471d69c5dab88b.png",
+      "chr_text": "",
+      "int_logistics": 0,
+      "int_sort": 6,
+      "time_crate": "2019-07-09 10:17:08"
+    },
+    "usertemplate": {
+      "id": 32,
+      "chr_name": "User-髮廊L",
+      "chr_template": "salon",
+      "chr_icon": "200902145635bced4fd.png",
+      "chr_text": "",
+      "int_sort": 1,
+      "time_crate": "2020-08-30 18:38:09",
+      "sortid": [
+        {
+          "id": 18025,
+          "int_sortid": 32,
+          "chr_no": "026",
+          "chr_param": "sharepicture",
+          "chr_title": "我的髮藝創作",
+          "chr_description": "分享照片",
+          "chr_icon": "20090516504071a1ef7.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 26,
+          "time_crate": "2020-09-05 16:50:16"
+        },
+        {
+          "id": 18019,
+          "int_sortid": 32,
+          "chr_no": "021",
+          "chr_param": "order",
+          "chr_title": "訂單",
+          "chr_description": "",
+          "chr_icon": "200905165039a5758df.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 14,
+          "time_crate": "2020-09-05 16:50:16"
+        },
+        {
+          "id": 18008,
+          "int_sortid": 32,
+          "chr_no": "001",
+          "chr_param": "menubrowse",
+          "chr_title": "服務項目",
+          "chr_description": "",
+          "chr_icon": "200905165038146a1c8.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 13,
+          "time_crate": "2020-09-05 16:50:16"
+        },
+        {
+          "id": 18011,
+          "int_sortid": 32,
+          "chr_no": "007",
+          "chr_param": "storefront",
+          "chr_title": "理髮廳實況",
+          "chr_description": "",
+          "chr_icon": "2009051650394584b96.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 12,
+          "time_crate": "2020-09-05 16:50:16"
+        },
+        {
+          "id": 18013,
+          "int_sortid": 32,
+          "chr_no": "009",
+          "chr_param": "viewblogs",
+          "chr_title": "部落格",
+          "chr_description": "",
+          "chr_icon": "200905165039cd2af5c.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 11,
+          "time_crate": "2020-09-05 16:50:16"
+        },
+        {
+          "id": 18009,
+          "int_sortid": 32,
+          "chr_no": "002",
+          "chr_param": "cook",
+          "chr_title": "髮藝設計師",
+          "chr_description": "",
+          "chr_icon": "200905165038e8bef66.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 10,
+          "time_crate": "2020-09-05 16:50:16"
+        },
+        {
+          "id": 18010,
+          "int_sortid": 32,
+          "chr_no": "006",
+          "chr_param": "reservation",
+          "chr_title": "預先訂位",
+          "chr_description": "",
+          "chr_icon": "200905165038f372f79.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 9,
+          "time_crate": "2020-09-05 16:50:16"
+        },
+        {
+          "id": 18014,
+          "int_sortid": 32,
+          "chr_no": "010",
+          "chr_param": "storedvalue",
+          "chr_title": "充值",
+          "chr_description": "",
+          "chr_icon": "2009051650399dbd450.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 8,
+          "time_crate": "2020-09-05 16:50:16"
+        },
+        {
+          "id": 18024,
+          "int_sortid": 32,
+          "chr_no": "025",
+          "chr_param": "wealcard",
+          "chr_title": "福利",
+          "chr_description": "",
+          "chr_icon": "2009051650406237e9c.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 7,
+          "time_crate": "2020-09-05 16:50:16"
+        },
+        {
+          "id": 18020,
+          "int_sortid": 32,
+          "chr_no": "022",
+          "chr_param": "chat",
+          "chr_title": "找服務",
+          "chr_description": "",
+          "chr_icon": "20090516503937f1e4f.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 6,
+          "time_crate": "2020-09-05 16:50:16"
+        },
+        {
+          "id": 18018,
+          "int_sortid": 32,
+          "chr_no": "020",
+          "chr_param": "scan",
+          "chr_title": "洗髮掃",
+          "chr_description": "",
+          "chr_icon": "200905165039521d6cd.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 5,
+          "time_crate": "2020-09-05 16:50:16"
+        },
+        {
+          "id": 18015,
+          "int_sortid": 32,
+          "chr_no": "013",
+          "chr_param": "leavemessage",
+          "chr_title": "留言板",
+          "chr_description": "側列ok",
+          "chr_icon": "2009051650390db43a5.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 4,
+          "time_crate": "2020-09-05 16:50:16"
+        },
+        {
+          "id": 18023,
+          "int_sortid": 32,
+          "chr_no": "024",
+          "chr_param": "facilities",
+          "chr_title": "十步設施",
+          "chr_description": "",
+          "chr_icon": "200905165039a2585ae.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 4,
+          "time_crate": "2020-09-05 16:50:16"
+        },
+        {
+          "id": 18021,
+          "int_sortid": 32,
+          "chr_no": "023",
+          "chr_param": "paymoney",
+          "chr_title": "付款",
+          "chr_description": "",
+          "chr_icon": "200905165039a6d8c65.png",
+          "int_use": 1,
+          "int_register": 0,
+          "int_sort": 1,
+          "time_crate": "2020-09-05 16:50:16"
+        }
+      ]
+    },
+    "aimantemplate": {
+      "id": 28,
+      "chr_name": "後台:髮廊L",
+      "chr_icon": "20090214432888cd630.png",
+      "chr_text": "",
+      "time_crate": "2020-09-02 14:32:03",
+      "aimanid": [
+        {
+          "id": 10822,
+          "int_aimanid": 28,
+          "chr_no": "012",
+          "chr_listtype": "fun",
+          "chr_param": "teamwork",
+          "chr_title": "合作",
+          "chr_description": "",
+          "chr_icon": "2009051000054e637a4.png",
+          "int_use": 1,
+          "int_sort": 99,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10823,
+          "int_aimanid": 28,
+          "chr_no": "024",
+          "chr_listtype": "fun",
+          "chr_param": "sharepicture",
+          "chr_title": "分享照片",
+          "chr_description": "",
+          "chr_icon": "",
+          "int_use": 1,
+          "int_sort": 17,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10825,
+          "int_aimanid": 28,
+          "chr_no": "022",
+          "chr_listtype": "fun",
+          "chr_param": "menuorder",
+          "chr_title": "預約服務",
+          "chr_description": "",
+          "chr_icon": "",
+          "int_use": 1,
+          "int_sort": 15,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10828,
+          "int_aimanid": 28,
+          "chr_no": "025",
+          "chr_listtype": "fun",
+          "chr_param": "leavemessage",
+          "chr_title": "用戶留言",
+          "chr_description": "",
+          "chr_icon": "",
+          "int_use": 1,
+          "int_sort": 14,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10810,
+          "int_aimanid": 28,
+          "chr_no": "007",
+          "chr_listtype": "base",
+          "chr_param": "shopmanage",
+          "chr_title": "門店",
+          "chr_description": "",
+          "chr_icon": "2009051000046ef4b84.png",
+          "int_use": 1,
+          "int_sort": 13,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10818,
+          "int_aimanid": 28,
+          "chr_no": "010",
+          "chr_listtype": "fun",
+          "chr_param": "coupon",
+          "chr_title": "福利卷",
+          "chr_description": "",
+          "chr_icon": "2009051000050890566.png",
+          "int_use": 1,
+          "int_sort": 13,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10811,
+          "int_aimanid": 28,
+          "chr_no": "001",
+          "chr_listtype": "base",
+          "chr_param": "menumanage",
+          "chr_title": "服務項目",
+          "chr_description": "",
+          "chr_icon": "200905100004ae2209b.png",
+          "int_use": 1,
+          "int_sort": 12,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10826,
+          "int_aimanid": 28,
+          "chr_no": "024",
+          "chr_listtype": "fun",
+          "chr_param": "site",
+          "chr_title": "地點列表",
+          "chr_description": "",
+          "chr_icon": "20090510000576e8c40.png",
+          "int_use": 1,
+          "int_sort": 12,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10814,
+          "int_aimanid": 28,
+          "chr_no": "017",
+          "chr_listtype": "base",
+          "chr_param": "facilities",
+          "chr_title": "店內設施",
+          "chr_description": "",
+          "chr_icon": "20090510000565eb7c1.png",
+          "int_use": 1,
+          "int_sort": 11,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10820,
+          "int_aimanid": 28,
+          "chr_no": "009",
+          "chr_listtype": "fun",
+          "chr_param": "blog",
+          "chr_title": "部落格",
+          "chr_description": "",
+          "chr_icon": "200905100005dc82c0f.png",
+          "int_use": 1,
+          "int_sort": 10,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10817,
+          "int_aimanid": 28,
+          "chr_no": "013",
+          "chr_listtype": "fun",
+          "chr_param": "scan",
+          "chr_title": "店長儲值",
+          "chr_description": "",
+          "chr_icon": "200905100005e42222d.png",
+          "int_use": 1,
+          "int_sort": 8,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10815,
+          "int_aimanid": 28,
+          "chr_no": "014",
+          "chr_listtype": "fun",
+          "chr_param": "user",
+          "chr_title": "會員管理",
+          "chr_description": "",
+          "chr_icon": "2009051000054526aee.png",
+          "int_use": 1,
+          "int_sort": 7,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10816,
+          "int_aimanid": 28,
+          "chr_no": "006",
+          "chr_listtype": "fun",
+          "chr_param": "service",
+          "chr_title": "客服鈴",
+          "chr_description": "",
+          "chr_icon": "20090510000582b91b7.png",
+          "int_use": 1,
+          "int_sort": 6,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10819,
+          "int_aimanid": 28,
+          "chr_no": "020",
+          "chr_listtype": "fun",
+          "chr_param": "shopqrcode",
+          "chr_title": "本店二維碼",
+          "chr_description": "",
+          "chr_icon": "2009051000055ea3482.png",
+          "int_use": 1,
+          "int_sort": 5,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10813,
+          "int_aimanid": 28,
+          "chr_no": "011",
+          "chr_listtype": "base",
+          "chr_param": "wallet",
+          "chr_title": "錢包",
+          "chr_description": "",
+          "chr_icon": "200905100004941debf.png",
+          "int_use": 1,
+          "int_sort": 4,
+          "time_crate": "2020-09-05 09:59:46"
+        },
+        {
+          "id": 10812,
+          "int_aimanid": 28,
+          "chr_no": "002",
+          "chr_listtype": "base",
+          "chr_param": "cook",
+          "chr_title": "人物",
+          "chr_description": "",
+          "chr_icon": "2009051000049697a60.png",
+          "int_use": 1,
+          "int_sort": 3,
+          "time_crate": "2020-09-05 09:59:46"
+        }
+      ]
+    },
+    "setting": {
+      "name": "SetDofor-髮廊L",
+      "text": "",
+      "impeach": [],
+      "payType": [
+        {
+          "id": "pay-01",
+          "name": "VIP記帳",
+          "sort": 1,
+          "label": "不啟用支付，线下付款",
+          "state": 1,
+          "notice": ""
+        },
+        {
+          "id": "pay-02",
+          "name": "現金",
+          "sort": 2,
+          "label": "货到付款",
+          "state": 1,
+          "notice": ""
+        },
+        {
+          "id": "pay-03",
+          "name": "稍後付款",
+          "sort": 3,
+          "label": "先消费后付款",
+          "state": 1,
+          "notice": ""
+        },
+        {
+          "id": "pay-04",
+          "name": "手機支付",
+          "sort": 4,
+          "label": "先付款后消费",
+          "state": 1,
+          "notice": ""
+        }
+      ],
+      "blogImage": [
+        {
+          "id": "logo",
+          "name": "封面",
+          "scale": "2\/1",
+          "width": "500",
+          "height": "250",
+          "remark": "",
+          "uiwidth": "",
+          "uiheight": ""
+        },
+        {
+          "id": "imgBrowse",
+          "name": "内容",
+          "scale": "1.875\/1",
+          "width": "750",
+          "height": "400",
+          "remark": "",
+          "uiwidth": "",
+          "uiheight": ""
+        }
+      ],
+      "orderType": [
+        {
+          "id": "order-01",
+          "name": "門市自取",
+          "sort": 1,
+          "label": "自取",
+          "state": 1,
+          "notice": ""
+        },
+        {
+          "id": "order-02",
+          "name": "外送",
+          "sort": 2,
+          "label": "外賣",
+          "state": 1,
+          "notice": ""
+        },
+        {
+          "id": "order-03",
+          "name": "訂貨保留",
+          "sort": 3,
+          "label": "店內就餐",
+          "state": 1,
+          "notice": ""
+        },
+        {
+          "id": "order-04",
+          "name": "物流",
+          "sort": 4,
+          "label": "郵遞(物流)",
+          "state": 1,
+          "notice": ""
+        },
+        {
+          "id": "order-05",
+          "name": "取貨",
+          "sort": 5,
+          "label": "掃描桌號",
+          "state": 1,
+          "notice": ""
+        },
+        {
+          "id": "order-06",
+          "name": "跟老公算",
+          "sort": 6,
+          "label": "使用同桌號",
+          "state": 1,
+          "notice": ""
+        },
+        {
+          "id": "order-07",
+          "name": "預約",
+          "sort": 7,
+          "label": "預約",
+          "state": 1,
+          "notice": ""
+        }
+      ],
+      "shopImage": [
+        {
+          "id": "logo",
+          "name": " 商標icon",
+          "width": "240",
+          "height": "240",
+          "remark": "首頁\/主頁\/後台"
+        },
+        {
+          "id": "imgBrowse",
+          "name": "門市簡介",
+          "scale": "1\/1",
+          "width": "750",
+          "height": "750",
+          "uiwidth": "",
+          "uiheight": ""
+        },
+        {
+          "id": "background",
+          "name": "主頁展示",
+          "scale": "1.875\/1",
+          "width": "750",
+          "height": "400",
+          "uiwidth": "",
+          "uiheight": ""
+        },
+        {
+          "id": "person",
+          "name": "人物圖像",
+          "width": "400",
+          "height": "400",
+          "remark": "使用[飲品]模組"
+        },
+        {
+          "id": "travel",
+          "name": "到此一遊",
+          "width": "300",
+          "height": "300"
+        },
+        {
+          "id": "facility",
+          "name": "十步設施",
+          "width": "200",
+          "height": "200"
+        }
+      ],
+      "productImage": [
+        {
+          "id": "logo",
+          "name": "商品小圖",
+          "scale": "1\/1",
+          "width": "330",
+          "height": "330",
+          "uiwidth": "",
+          "uiheight": ""
+        },
+        {
+          "id": "imgBrowse",
+          "name": "商品大圖",
+          "scale": "1\/1",
+          "width": "750",
+          "height": "750",
+          "uiwidth": "",
+          "uiheight": ""
+        },
+        {
+          "id": "menutype",
+          "name": "分類圖",
+          "scale": "3\/1",
+          "width": "350",
+          "height": "100",
+          "remark": "",
+          "uiwidth": "",
+          "uiheight": ""
+        }
+      ],
+      "productState": [
+        {
+          "id": 1,
+          "name": "(出單)倉管",
+          "label": "已提交，等待處理",
+          "state": 1,
+          "shopPush": 1,
+          "userPush": 1
+        },
+        {
+          "id": 2,
+          "name": "(處理)",
+          "label": "正在加工",
+          "state": 1,
+          "shopPush": 0,
+          "userPush": 0
+        },
+        {
+          "id": 3,
+          "name": "(完成)發貨",
+          "label": "加工完成，等待",
+          "state": 1,
+          "shopPush": 1,
+          "userPush": 1
+        },
+        {
+          "id": 4,
+          "name": "(接手)員工",
+          "label": "已發送，未確認收貨",
+          "state": 1,
+          "shopPush": 1,
+          "userPush": 0
+        },
+        {
+          "id": 5,
+          "name": "(最後確認)按完成",
+          "label": "確認收貨完成",
+          "state": 1,
+          "shopPush": 1,
+          "userPush": 0
+        }
+      ],
+      "id": 28,
+      "uptime": "2020-09-02 15:53:36"
+    },
+    "teamwork": []
+  }
+}
